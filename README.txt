@@ -1,6 +1,3 @@
-README FILE FOR THE SOURCE CODE
-Pro CSS and HTML Design Patterns 
-
 The source code zip file contains all the source code in the book. You can unzip 
 it to any directory. When unzipped, the source code is organized in folders 
 by chapter and design pattern. There is a separate folder for each chapter. 
@@ -21,5 +18,3 @@ example in the book and preview it in browsers.
 The folder named JavaScript Library v0.24 contains the Source code and licenses 
 for the JavaScript Libraries used in the book.
 
-Have fun playing with the examples...
- - Mike Bowers
